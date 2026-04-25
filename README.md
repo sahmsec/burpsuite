@@ -26,25 +26,19 @@ git --version
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/sahmsec/burpsuite.git
-cd burpsuite
-java -jar burpsuite-installer.jar
+git clone https://github.com/sahmsec/burpsuite.git; cd burpsuite; java -jar burpsuite-installer.jar
 ```
 
 ### Linux
 
 ```bash
-git clone https://github.com/sahmsec/burpsuite.git
-cd burpsuite
-java -jar burpsuite-installer.jar
+git clone https://github.com/sahmsec/burpsuite.git && cd burpsuite && java -jar burpsuite-installer.jar
 ```
 
 ### macOS
 
 ```bash
-git clone https://github.com/sahmsec/burpsuite.git
-cd burpsuite
-java -jar burpsuite-installer.jar
+git clone https://github.com/sahmsec/burpsuite.git && cd burpsuite && java -jar burpsuite-installer.jar
 ```
 
 ---
@@ -66,7 +60,7 @@ After running the installation commands:
 ```bash
 BurpTools/
 ├── burpsuite_pro_vXXXX.jar
-└── tool.jar
+└── BurploaderKeygen.jar
 ```
 
 ---
