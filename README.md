@@ -26,19 +26,19 @@ git --version
 ### Linux
 
 ```bash
-git clone https://github.com/sahmsec/burpsuite.git && cd burpsuite && java -jar burpsuite-installer.jar
+git clone https://github.com/sahmsec/burpsuite-installer-cli.git && cd burpsuite && java -jar burpsuite-installer.jar
 ```
 
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/sahmsec/burpsuite.git; cd burpsuite; java -jar burpsuite-installer.jar
+git clone https://github.com/sahmsec/burpsuite-installer-cli.git; cd burpsuite; java -jar burpsuite-installer.jar
 ```
 
 ### macOS
 
 ```bash
-git clone https://github.com/sahmsec/burpsuite.git && cd burpsuite && java -jar burpsuite-installer.jar
+git clone https://github.com/sahmsec/burpsuite-installer-cli.git && cd burpsuite && java -jar burpsuite-installer.jar
 ```
 
 ---
